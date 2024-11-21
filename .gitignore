@@ -1,0 +1,9 @@
+config.json
+*.pyc
+*.log
+*.txt
+*.csv
+*.json
+*.jsonl
+__pycache__
+

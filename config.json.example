@@ -1,0 +1,16 @@
+{
+    "webcam_index": 0,
+    "smoothing": 0.5,
+    "thresholds": {
+        "mouth_open": 0.017,
+        "eyebrow_raise": 0.023,
+        "eye_closed": 0.02,
+        "nose_movement": 0.015
+    },
+    "mouse": {
+        "velocity_scale": 45.0,
+        "max_velocity": 60,
+        "deadzone": 0.1,
+        "click_cooldown": 0.3
+    }
+}
